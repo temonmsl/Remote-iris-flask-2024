@@ -12,5 +12,5 @@
 - **RESTful API**：支持 RESTful API，用戶可以通過 HTTP 請求獲取數據和進行預測。
 
 
-![Alt text]([app3-bg/iris_flask.mp4](https://github.com/temonmsl/Remote-iris-flask-2024/blob/main/app3-bg/iris_flask.mp4))
+![](https://youtu.be/86E5ykOLvHs)
 
